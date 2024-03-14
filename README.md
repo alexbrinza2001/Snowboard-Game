@@ -1,6 +1,6 @@
 <h1>My second gamedev project.</h1>
 
-<h2>Mechanics:</h2>
+<h2>Game Mechanics</h2>
 <ul>
 <li>Move long the track;</li>
 <li>Rotate forwards and backwards;</li>
