@@ -1,6 +1,6 @@
 <h1>Snowboarder game</h1>
 
-<h2>A game in which you control a snowboarder goinng up and down the slopes, trying not to fall.</h2>
+<h2>A game in which you control a snowboarder going up and down the slopes, trying not to fall.</h2>
 
 <h2>Game Mechanics
   <p></p>
